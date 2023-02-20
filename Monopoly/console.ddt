@@ -3,25 +3,25 @@
 /******************************************************************************/
 /*         Biblioteka stworzona na potrzeby kursu programowania C++           */
 /******************************************************************************/
-/*         Autor: Piotr Szawdyñski            Ÿród³o: http://ddt.pl           */
+/*         Autor: Piotr SzawdyÃ±ski            Å¸rÃ³dÂ³o: http://ddt.pl           */
 /*         Wersja: 1.0           Ostatnia aktualizacja: 8 maja 2007           */
-/*         Przeznaczone œrodowisko: Dev-C++                                   */
-/*         Obs³ugiwane systemy operacyjne: Windows                            */
-/*         Plik zawieraj¹cy dokumentacjê biblioteki: ddt-console.pdf          */
+/*         Przeznaczone Å“rodowisko: Dev-C++                                   */
+/*         ObsÂ³ugiwane systemy operacyjne: Windows                            */
+/*         Plik zawierajÂ¹cy dokumentacjÃª biblioteki: ddt-console.pdf          */
 /******************************************************************************/
-/*   Biblioteka nie mo¿e byæ rozpowszechniana bez kompletnej dokumentacji.    */
-/*   Za bibliotekê nie mog¹ byæ pobierane jakiekolwiek op³aty.                */
+/*   Biblioteka nie moÂ¿e byÃ¦ rozpowszechniana bez kompletnej dokumentacji.    */
+/*   Za bibliotekÃª nie mogÂ¹ byÃ¦ pobierane jakiekolwiek opÂ³aty.                */
 /*   Niniejsza biblioteka jest darmowa.                                       */
-/*   Bibliotekê mo¿e pobraæ ka¿dy ze strony http://ddt.pl                     */
-/*   Bibliotekê mo¿na u¿ywaæ do celów edukacyjnych jak i komercyjnych.        */
-/*   Plik nie mo¿e byæ rozpowszechniany, jeœli zostanie cokolwiek w nim       */
-/*   zmienione. Dotyczy to równie¿ komentarzy!                                */
+/*   BibliotekÃª moÂ¿e pobraÃ¦ kaÂ¿dy ze strony http://ddt.pl                     */
+/*   BibliotekÃª moÂ¿na uÂ¿ywaÃ¦ do celÃ³w edukacyjnych jak i komercyjnych.        */
+/*   Plik nie moÂ¿e byÃ¦ rozpowszechniany, jeÅ“li zostanie cokolwiek w nim       */
+/*   zmienione. Dotyczy to rÃ³wnieÂ¿ komentarzy!                                */
 /******************************************************************************/
-/*   Biblioteka nie powinna sprawiaæ ¿adnych problemów, pod warunkiem i¿      */
-/*   nie bêd¹ wprowadzane do niej jakiekolwiek zmiany.                        */
+/*   Biblioteka nie powinna sprawiaÃ¦ Â¿adnych problemÃ³w, pod warunkiem iÂ¿      */
+/*   nie bÃªdÂ¹ wprowadzane do niej jakiekolwiek zmiany.                        */
 /******************************************************************************/
-/*   Autor nie ponosi odpowiedzialnoœci za b³êdne funkcjonowanie biblioteki.  */
-/*   Niniejsz¹ bibliotekê uruchamiasz na w³asne ryzyko.                       */
+/*   Autor nie ponosi odpowiedzialnoÅ“ci za bÂ³Ãªdne funkcjonowanie biblioteki.  */
+/*   NiniejszÂ¹ bibliotekÃª uruchamiasz na wÂ³asne ryzyko.                       */
 /******************************************************************************/
 #include <windows.h>
 /******************************************************************************/
